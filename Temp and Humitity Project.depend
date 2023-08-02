@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684269322 source:/home/pi/Desktop/C Programs/Temp and Humitity Project/main.c
+	<wiringPi.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<mysql/mysql.h>
+	<wiringPi.h>
+	<wiringPiI2C.h>
+
